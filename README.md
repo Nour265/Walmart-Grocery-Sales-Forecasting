@@ -30,3 +30,7 @@ An interactive web application predicting weekly sales for Walmart stores using 
 - [XGBoost](https://xgboost.readthedocs.io/)
 - [SHAP](https://github.com/slundberg/shap)
 - [scikit-learn](https://scikit-learn.org/)
+
+
+## 🚀 Live Demo
+[Streamlit App](https://walmart-grocery-sales-forecastinggit-nry6hmur3dcrahthjjwgjs.streamlit.app/)
